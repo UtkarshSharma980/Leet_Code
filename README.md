@@ -59,6 +59,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
@@ -69,6 +70,7 @@
 | [0067-add-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 | [1250-longest-common-subsequence](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1250-longest-common-subsequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -129,6 +131,7 @@
 | [0088-merge-sorted-array](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
