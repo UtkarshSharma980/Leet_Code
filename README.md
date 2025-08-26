@@ -75,6 +75,7 @@
 | [1250-longest-common-subsequence](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1250-longest-common-subsequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3567-convert-date-to-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3567-convert-date-to-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3811-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0067-add-binary) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3811-reverse-degree-of-a-string](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3811-reverse-degree-of-a-string) |
 ## Union Find
 |  |
 | ------- |
