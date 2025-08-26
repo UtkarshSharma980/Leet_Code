@@ -3,11 +3,12 @@ class Solution {
         Map<Integer, Integer> hm = new HashMap<>();
         for(int n: nums) hm.put(n,hm.getOrDefault(n,0)+1);
         int max = -1, ans = 0;
-        for(int n: nums){
-            int count = hm.get(n);
+        for(Map.Entry<Integer, Integer> e : hm.entrySet()){
+            // int count = hm.get(n);
+            int count = e.getValue();
             if(count > max){
                 max = count;
-                ans = n;
+                ans = e.getKey();
             }
         }
         return ans;
