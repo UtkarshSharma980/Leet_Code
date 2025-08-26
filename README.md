@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0125-valid-palindrome) |
@@ -243,4 +244,8 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
