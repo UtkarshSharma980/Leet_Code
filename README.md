@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0079-word-search) |
@@ -86,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0125-valid-palindrome) |
@@ -248,4 +251,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
