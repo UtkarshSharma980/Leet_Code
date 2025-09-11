@@ -20,6 +20,7 @@
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0729-my-calendar-i) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1659-get-the-maximum-score](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1659-get-the-maximum-score) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2792-neighboring-bitwise-xor](https://github.com/UtkarshGLAU/Leet_Code/tree/master/2792-neighboring-bitwise-xor) |
@@ -94,6 +95,7 @@
 | [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1250-longest-common-subsequence) |
+| [1659-get-the-maximum-score](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1659-get-the-maximum-score) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0908-middle-of-the-linked-list) |
+| [1659-get-the-maximum-score](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1659-get-the-maximum-score) |
 ## Recursion
 |  |
 | ------- |
@@ -256,4 +259,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [1659-get-the-maximum-score](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1659-get-the-maximum-score) |
 <!---LeetCode Topics End-->
