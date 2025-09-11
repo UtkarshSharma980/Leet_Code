@@ -1,6 +1,6 @@
 class Solution {
     public int maxSum(int[] nums1, int[] nums2) {
-        final int MOD = 1_000_000_007;
+        int MOD = 1_000_000_007;
         int i = 0, j = 0;
         long sum1 = 0, sum2 = 0, result = 0;
         while (i < nums1.length && j < nums2.length) {
@@ -9,11 +9,10 @@ class Solution {
             } else if (nums1[i] > nums2[j]) {
                 sum2 += nums2[j++];
             } else {
-                result += Math.max(sum1, sum2) + nums1[i];
+                result += (Math.max(sum1, sum2) + nums1[i++]) % MOD;
                 result %= MOD;
                 sum1 = 0;
                 sum2 = 0;
-                i++;
                 j++;
             }
         }
