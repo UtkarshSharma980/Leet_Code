@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0169-majority-element) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [2792-neighboring-bitwise-xor](https://github.com/UtkarshGLAU/Leet_Code/tree/master/2792-neighboring-bitwise-xor) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
