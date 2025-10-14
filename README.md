@@ -31,6 +31,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [2792-neighboring-bitwise-xor](https://github.com/UtkarshGLAU/Leet_Code/tree/master/2792-neighboring-bitwise-xor) |
@@ -120,6 +121,7 @@
 | [0050-powx-n](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3373-maximum-prime-difference](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3373-maximum-prime-difference) |
@@ -214,6 +216,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
